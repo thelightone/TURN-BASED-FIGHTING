@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 984933bee57fdfe4f8ef7f4ceb88e284, type: 3}
+  m_Name: Double Damage
+  m_EditorClassIdentifier: 
+  healthChange: 0
+  armorCnahge: 0
+  vampChange: 0
+  damageHealthChange: 2
+  damageArmorChange: 0
+  damageVampChange: 0
+  duration: 3
+  _player: {fileID: 0}
